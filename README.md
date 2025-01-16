@@ -19,14 +19,16 @@ This web app will make it easy for users to not only organize group meetups, but
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
 - [x] Proper use of Markdown - I have been practicing my markdown as I've never used it before:)
-- [ ] A concise and compelling elevator pitch - I wrote my elevator pitch (still working on catching an elevator with Steve Jobs)
+- [x] A concise and compelling elevator pitch - I wrote my elevator pitch (still working on catching an elevator with Steve Jobs)
 - [ ] Description of key features
 - [ ] Description of how you will use each technology
 - [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
 
-I love boardgames! Do you love boardgames? No? Oh. Well I've been having a difficult time finding others who want to play boardgames.
+<!-- I love boardgames! Do you love boardgames? No? Oh. Well I've been having a difficult time finding others who want to play boardgames. Has this ever happened to you? You have an interest and you want to share this interest with someone else, but you struggle to find people with those same interests! I just wish there was an app where one could publish a meetup for a particular activity, and others in their area can see this event and meetup to find other people with this interest! It would be so simple to share information about a group bike ride, or an open board game night.  -->
+
+Imagine an app that allows you to easily share info about group meetups in your area. Say you're hosting a D&D campaign and you need more players. Or you love riding bikes and you want to start a weekly group ride. Or perhaps you're wanting to find new hobbies and friends, but don't know where to start. This app would allow people to create groups that others in their area can view the meetup info and can show interest in particular activities in their area. It would make it so simple to find and make new friend groups with similar interests!
 
 ### Design
 
