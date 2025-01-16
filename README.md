@@ -34,7 +34,7 @@ Imagine an app that allows you to easily share info about group meetups in your 
 
 ![Login image](images/startup.mock.login.png) ![Home image](images/startup.mock.home.png) ![Group image](images/startup.mock.group.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Users will create an account they can login with, ideally these accounts would be linked to their phone number so they can opt in on recieving text message reminders for events they've shown interest in or rsvp'd for. On the home page, users will see all nearby public events, and any private events they may be invited to. Users will be able to view the details of any group they select, such as the time and location of the next meetup, as well as a description of the group itself, the creator, and any other potentially important information
 
 ```mermaid
 sequenceDiagram
