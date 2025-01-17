@@ -55,12 +55,12 @@ sequenceDiagram
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - Uses correct HTML structure for application. Four HTML pages. One for login, one for veiwing all nearby groups, another for veiwing a specific group, and one more for creating a new group.
+- **CSS** - Application styling that looks good on different screen sizes, uses good whitespace, color choice and contrast.
+- **React** - Allows for users to rsvp to events, login, view groups, create new groups, and other functionalities
+- **Service** - calls on google maps' public api to access and share locations of groups and proximity to users.
+- **DB/Login** - Store users and groups in database. Register and login users. Credentials securely stored in database. Can't rsvp unless authenticated.
+- **WebSocket** - users will see new groups as they are created, and I hope to at somepoint enable a chatting feature for the individual groups.
 
 ## 🚀 AWS deliverable
 
