@@ -20,9 +20,9 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 - [x] Proper use of Markdown - I have been practicing my markdown as I've never used it before:)
 - [x] A concise and compelling elevator pitch - I wrote my elevator pitch (still working on catching an elevator with Steve Jobs)
-- [ ] Description of key features
+- [x] Description of key features
 - [ ] Description of how you will use each technology
-- [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
+- [x] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
 
@@ -45,9 +45,11 @@ sequenceDiagram
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Secure login over HTTPS
+- Ability to view created groups
+- Ability to create a new group
+- Ability to join a created group
+- Display of info about groups
 
 ### Technologies
 
