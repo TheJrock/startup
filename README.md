@@ -64,9 +64,9 @@ I am going to use the required technologies in the following ways.
 
 ## 🚀 AWS deliverable
 
-For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
+For this deliverable I did the following. I checked the box `[x]` and I set up everyithing required for my website to be accessed securely by anyone in the world. yay!
 
-- [ ] **Server deployed and accessible with custom domain name** - [My server link](https://yourdomainnamehere.click).
+- [x] **Server deployed and accessible with custom domain name** - [My server link](https://circleup.click).
 
 ## 🚀 HTML deliverable
 
