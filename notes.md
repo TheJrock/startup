@@ -14,8 +14,12 @@ I have been learning a lot about how to use github. I have used github for sever
 
 ## AWS Notes
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+There is so much that I have learned with this. I have been learning a great deal about how webservers work, and just the internet in general. It is also exciting to get a webserver running.
 
 ## HTML Notes
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I have a little bit of experience with html, so it has been really nice to review the different aspects of the language and all the little specifications that I make when working with it.
+
+## CSS Notes
+
+I did not realize that you could put the CSS directly into an html file. It definitely makes more sense for it to be in its own file, but, having never used CSS to date, this was a surprise to me. I loved learning about all of the neat tricks that one can do when working with CSS to make their website look how they want it. I also didn't know how to use the developer tools when debugging.
