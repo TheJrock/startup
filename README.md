@@ -72,10 +72,10 @@ For this deliverable I did the following. I checked the box `[x]` and I set up e
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **HTML pages** - I did not complete this part of the deliverable.
-- [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
-- [ ] **Links** - I did not complete this part of the deliverable.
-- [ ] **Text** - I did not complete this part of the deliverable.
+- [x] **HTML pages** - I added HTML pages to my website.
+- [x] **Proper HTML element usage** - I used a variety of proper HTML elements throughout my pages.
+- [x] **Links** - I used links to navigate between pages.
+- [x] **Text** - Most of my website's structure is composed of text.
 - [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
 - [ ] **Images** - I did not complete this part of the deliverable.
 - [ ] **Login placeholder** - I did not complete this part of the deliverable.
