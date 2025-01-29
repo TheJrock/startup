@@ -76,11 +76,11 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **Proper HTML element usage** - I used a variety of proper HTML elements throughout my pages.
 - [x] **Links** - I used links to navigate between pages.
 - [x] **Text** - Most of my website's structure is composed of text.
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
-- [ ] **Images** - I did not complete this part of the deliverable.
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
-- [ ] **DB data placeholder** - I did not complete this part of the deliverable.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [x] **3rd party API placeholder** - I added a temporary link to google maps to demonstrate how my application will use google's services to share locations with users.
+- [x] **Images** - I gave an example of how a circle might use an image to represent their group.
+- [x] **Login placeholder** - I have boxes as placeholders for the user to enter login info.
+- [x] **DB data placeholder** - I have filler info on the group page, which information would normally be stored in the database.
+- [x] **WebSocket placeholder** - I have filler groups showing up on the main page, which websocket will allow for these groups to appear when a new one is created.
 
 ## 🚀 CSS deliverable
 
