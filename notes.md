@@ -23,3 +23,6 @@ I have a little bit of experience with html, so it has been really nice to revie
 ## CSS Notes
 
 I did not realize that you could put the CSS directly into an html file. It definitely makes more sense for it to be in its own file, but, having never used CSS to date, this was a surprise to me. I loved learning about all of the neat tricks that one can do when working with CSS to make their website look how they want it. I also didn't know how to use the developer tools when debugging.
+
+## JavaScript Nots
+
