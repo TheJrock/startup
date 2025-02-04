@@ -24,5 +24,18 @@ I have a little bit of experience with html, so it has been really nice to revie
 
 I did not realize that you could put the CSS directly into an html file. It definitely makes more sense for it to be in its own file, but, having never used CSS to date, this was a surprise to me. I loved learning about all of the neat tricks that one can do when working with CSS to make their website look how they want it. I also didn't know how to use the developer tools when debugging.
 
-## JavaScript Nots
+## JavaScript Notes
 
+
+
+## React Notes
+
+JSX is a combination of javascript and html
+>>> const jsx = <p>Hello World</p>
+The above JSX will be converted into javascript when compiled with Babel
+us brackets to escape jsx rendering:
+>>> <div>
+>>>     <p>Hello {phrase}</p>
+>>> </div>
+A multi-page application will have to load a different page for each part of the app you want, with react, we can make it that it is always the same page but the main component changes as the user navigates. This way it won't have to reload a page each time they navigate, and we have our header and footer consistent throughout the app. It uses NavLinks as our anchor tags and will route to different route components. <Routes> will be a set of all possible route paths. 
+This may be the most difficult topic for me to understand and grasp just yet, this will take a lot of expirimentation. 
