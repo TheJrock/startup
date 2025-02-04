@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+  }
+
+h1 {
+border-bottom: thin black solid;
+}
+
+section {
+background: #eeeeee;
+padding: 0.25em;
+margin-bottom: 0.5em;
+}
+
+button p {
+    color: black;
+    margin: 0;
+}
+
+button {
+    color: white;
+    border: solid .5em white;
+    border-radius: 10%;
+    box-shadow: 2px 2px 2px gray;
+
+}
+
+button:hover {
+    color: pink;
+    border: solid .5em purple;
+    border-radius: 10%;
+  }
