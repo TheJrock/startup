@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CircleUp</title>
+    <link rel="stylesheet" href="main.css" />
+    <!-- <link rel="icon" href="favicon.ico" /> -->
+  </head>
+
+  <body>
+    <header>
+      <img alt="logo" src="https://camo.githubusercontent.com/d184a90d1e108f38af47c6e73e051dd871c5d222ee51f9e868d33d80de5c4af6/68747470
+733a2f2f77616c6c7061706572636176652e636f6d2f77702f7770353237373734342e6a7067" height="50em" />
+      <img alt="profile" src="./images/profile_icon.jpg" height="75em" />
+      <a class="button" href="index.html">Logout</a>
+      <hr />
+    </header>
+    <main>
+      <h1>Create A Circle, Spin, or Loop</h1>
+      <label>Create a</label>
+      <select onchange="ShowContent()">
+        <option value="">--Choose--</option>
+        <option value="new circle form">Circle</option>
+        <option value="new spin form">Spin</option>
+        <option value="new loop form">Loop</option>
+      </select>
+      <div id="new circle form" class="form content">
+        <form type="submit" action="circle.html">
+          <p>A Circle is a group of friends who can gather for different events. It can have many Spins or Loops within it.</p>
+          <div><input type="text" value="Circle Name" /></div>
+          <div><input type="text" value="Description" /></div>
+          <div><label>Upload a cover photo: </label><input type="file" id="myFile" name="filename"></div>
+          <div>
+            <label>Privacy: </label>
+            <select>
+              <option>Private</option>
+              <option>Public</option>
+            </select>
+          </div>
+          <input type="submit" value="Create your Circle!" />
+        </form>
+      </div>
+      <div id="new spin form" class="form content">
+        <form type="submit" action="event.html">
+          <p>A Spin is a single meetup. It can be a part of a Circle, and it can be converted into a Loop.</p>
+          <div><input type="text" value="Spin Name" /></div>
+          <div><input type="text" value="Description" /></div>
+          <div>
+            <label>Add to Circle?</label>
+            <select>
+              <option>None</option>
+              <option>Circle 1</option>
+              <option>Circle 2</option>
+              <option>Circle 3</option>
+            </select>
+          </div>
+          <div><label>Upload a cover photo: </label><input type="file" id="myFile" name="filename"></div>
+          <div>
+            <label>Privacy: </label>
+            <select>
+              <option>Private</option>
+              <option>Public</option>
+            </select>
+          </div>
+          <input type="submit" value="Create your Circle!" />
+
+        </form>
+      </div>
+      <div id="new loop form" class="form content">
+        <form type="submit" action="event.html">
+          <p>A Loop is a recurring meetup. It can be part of a Circle, and it can be converted into a Spin.</p>
+        </form>
+      </div>
+    </main>
+    <footer>
+      <hr />
+      <nav>
+        <a class="navigation" href="home.html">Home</a>
+      </nav>
+      <hr />
+      <span class="text-reset">Author Name(s)</span>
+      <br />
+      <a href="https://github.com/webprogramming260/simon-html">GitHub</a>
+    </footer>
+  </body>
+
+
+
+  
+  <!-- <body>
+    <header>
+      <h1>CircleUp<sup>&reg;</sup></h1>
+
+      <nav>
+        <menu>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="groups.html">Groups</a></li>
+          <li><a href="info.html">Group Info</a></li>
+        </menu>
+      </nav>
+
+      <hr />
+    </header>
+
+    <main>
+      <h1>Login</h1>
+      <form method="get" action="play.html">
+        <h4>User</h4>
+        <div>
+          <span>@</span>
+          <input type="text" placeholder="enter email" />
+        </div>
+        <h4>Password</h4>
+        <div>
+          <span>🔒</span>
+          <input type="password" placeholder="password" />
+        </div>
+        <button type="submit">Login</button>
+        <button type="submit">Create</button>
+      </form>
+    </main>
+
+    <footer>
+      <hr />
+      <span class="text-reset">Johnathan Goodlad</span>
+      <br />
+      <a href="https://github.com/TheJrock/startup.git">GitHub</a>
+    </footer>
+  </body> -->
+</html>
