@@ -1,8 +1,13 @@
-body {
-    font-family: sans-serif;
-  }
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
-h1 {
+body {
+  font-family: 'Montserrat';
+}
+
+
+
+
+/* h1 {
 border-bottom: thin black solid;
 }
 
@@ -29,4 +34,4 @@ button:hover {
     color: pink;
     border: solid .5em purple;
     border-radius: 10%;
-  }
+  } */
