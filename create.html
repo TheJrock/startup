@@ -65,13 +65,44 @@
               <option>Public</option>
             </select>
           </div>
-          <input type="submit" value="Create your Circle!" />
-
+          <input type="submit" value="Create your Spin!" />
         </form>
       </div>
       <div id="new loop form" class="form content">
         <form type="submit" action="event.html">
           <p>A Loop is a recurring meetup. It can be part of a Circle, and it can be converted into a Spin.</p>
+          <div><label>Loop Name: </label><input type="text" /></div>
+          <div><label>Description: </label><input type="text" /></div>
+          <div><label>Date: </label><input type="date" /></div>
+          <div><label>Time: </label><input type="time" /></div>
+          <div>
+            <label>Repeats </label>
+            <select>
+              <option>--Choose--</option>
+              <option>Daily</option>
+              <option>Weekly</option>
+              <option>Monthly</option>
+              <option>Yearly</option>
+            </select>
+          </div>
+          <div>
+            <label>Add to Circle?</label>
+            <select>
+              <option>None</option>
+              <option>Circle 1</option>
+              <option>Circle 2</option>
+              <option>Circle 3</option>
+            </select>
+          </div>
+          <div><label>Upload a cover photo: </label><input type="file" id="myFile" name="filename"></div>
+          <div>
+            <label>Privacy: </label>
+            <select>
+              <option>Private</option>
+              <option>Public</option>
+            </select>
+          </div>
+          <input type="submit" value="Create your Loop!" />
         </form>
       </div>
     </main>
