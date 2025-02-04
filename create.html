@@ -28,8 +28,8 @@
       <div id="new circle form" class="form content">
         <form type="submit" action="circle.html">
           <p>A Circle is a group of friends who can gather for different events. It can have many Spins or Loops within it.</p>
-          <div><input type="text" value="Circle Name" /></div>
-          <div><input type="text" value="Description" /></div>
+          <div><label>Circle Name: </label><input type="text" /></div>
+          <div><label>Description: </label><input type="text" /></div>
           <div><label>Upload a cover photo: </label><input type="file" id="myFile" name="filename"></div>
           <div>
             <label>Privacy: </label>
@@ -44,8 +44,10 @@
       <div id="new spin form" class="form content">
         <form type="submit" action="event.html">
           <p>A Spin is a single meetup. It can be a part of a Circle, and it can be converted into a Loop.</p>
-          <div><input type="text" value="Spin Name" /></div>
-          <div><input type="text" value="Description" /></div>
+          <div><label>Spin Name: </label><input type="text" /></div>
+          <div><label>Description: </label><input type="text" /></div>
+          <div><label>Date: </label><input type="date" /></div>
+          <div><label>Time: </label><input type="time" /></div>
           <div>
             <label>Add to Circle?</label>
             <select>
