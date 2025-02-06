@@ -7,16 +7,20 @@ body {
 
 header h1 {
   color: white;
-  text-align: center;
-  padding: 10px 0;
+  margin: 0;
 }
 
 header {
-  columns: 3;
   background-color: #28759e;
-  margin: auto;
-  text-align: center;
   height: 5em;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+header img {
+  border-radius: 50%;
+  max-height: 80%;
 }
 
 header a {
@@ -24,25 +28,6 @@ header a {
   text-align: center;
 }
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
-  height: auto;
-  border-radius: 10%;
-}
-
-header img {
-  border-radius: 50%;
-  height: fit-content;
-  padding: 1em;
-}
-
-h1 {
-  padding: 70px 0;
-  text-align: center;
-}
 
 
 /* h1 {
