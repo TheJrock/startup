@@ -10,32 +10,37 @@
 
   <body>
     <header>
-      <img class="logo" alt="logo" src="./images/C.png" />
+      <img alt="logo" src="./images/C.png" />
       <h1>CircleUp<sup>&reg;</sup></h1>
-      <img class="profile" alt="profile" src="./images/profile_icon.jpg" />
+      <img alt="profile" src="./images/profile_icon.jpg" />
     </header>
     <main>
-      <h1>Login</h1>
-      <form method="get" action="home.html">
-        <h4>Username</h4>
-        <div>
-          <input type="text" placeholder="username" />
-        </div>
-        <h4>Password</h4>
-        <div>
-          <input type="password" placeholder="password" />
-        </div>
-        <button type="submit">Login</button>
+      <div class="page_title">
+        <h1>Login</h1>
+      </div>
+      <div class="page_content">
+        <form method="get" action="home.html">
+          <h4>Username</h4>
+          <div>
+            <input type="text" placeholder="username" />
+          </div>
+          <h4>Password</h4>
+          <div>
+            <input type="password" placeholder="password" />
+          </div>
+          <div>
+            <button type="submit">Login</button>
+          </div>
+        </form>
         <div>
           <p>Don't have a profile? <a href="signup.html"> Sign up</a></p>
         </div>
-      </form>
+
+      </div>
     </main>
     <footer>
-      <hr />
-      <span class="text-reset">Author Name(s)</span>
-      <br />
-      <a href="https://github.com/webprogramming260/simon-html">GitHub</a>
+      <span id="author" class="text-reset">Author Name(s)</span>
+      <a id="source" href="https://github.com/webprogramming260/simon-html">GitHub</a>
     </footer>
   </body>
 
