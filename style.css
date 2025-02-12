@@ -46,6 +46,10 @@ footer {
   min-width: 100%;
 }
 
+footer a {
+  color: black;
+}
+
 #author {
   position: absolute;
   left: 2%;
@@ -69,6 +73,7 @@ footer {
 
 .page_content {
   display: grid;
+  align-items: center;
   justify-content: center;
 }
 

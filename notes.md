@@ -26,7 +26,7 @@ I did not realize that you could put the CSS directly into an html file. It defi
 
 ## JavaScript Notes
 
-
+Do not forget about closures and how they work with React. They will remember which state variables of the same function were left in and will build off of that state, which can be confusing if I am not expecting it to remember the variables.
 
 ## React Notes
 
